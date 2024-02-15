@@ -16,10 +16,19 @@ english = 45
 # elif maths > 70 or english > 70:
 #     print("you passed either math or eng")
 
-if maths > 70 and english > 70:
-    pass
+# if maths > 70 and english > 70:
+#     pass
 
     
+k = 7
+l = 9
+
+if not k > l:
+    print("k is not greater than l")
+
+
+if k != l:
+    print("k is not equal to l")
 
 
 

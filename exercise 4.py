@@ -10,7 +10,7 @@ print(f"Average = {average}")
 if average < 0:
     print("Invalid value")
 
-if average > 100:4535
+if average > 100:
     print("Invalid value")
 
 if average >= 71 and average < 100:
@@ -27,4 +27,3 @@ elif average>=41 and average < 51:
 
 elif average>=0 and average < 41:
     print("E")
-
